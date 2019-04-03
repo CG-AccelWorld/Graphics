@@ -7,8 +7,9 @@
 <b><details><summary>ColorLine</summary></b>
 
 ####  这个是我进研究所时老师出的考题，还挺有意思的.
+####  录屏软件不识别绿色？尴尬.. 上面那个本来是绿色的..
 
-* [牛客网 . 2019校招面经大汇总！【每日更新中】](https://www.nowcoder.com/discuss/90907)
+![image]（https://github.com/CG-AccelWorld/Graphics/blob/master/MyImg/ColorLine.gif?raw=true）
 
 </details>
 
