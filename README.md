@@ -15,6 +15,6 @@
 
 <b><details><summary>DBezier</summary></b>
 
-发送到发发
+![image](https://github.com/CG-AccelWorld/Graphics/blob/master/MyImg/DBezier.gif)
 
 </details>
