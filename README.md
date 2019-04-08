@@ -14,6 +14,7 @@
 
 <b><details><summary>Bezier相关</summary></b>
   
+---
 <details><summary>DBezier</summary>
   
 #### Bezier运动图
@@ -41,8 +42,9 @@
 
 <img src="https://github.com/CG-AccelWorld/Graphics/blob/master/MyImg/%E9%99%B6%E7%93%B7.png" alt="Sample"  width="250" height="250">
 
-                陶瓷 
-           
+                陶瓷         
 </details>
+
+---
 
 </details>
