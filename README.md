@@ -14,7 +14,7 @@
 
 <b><details><summary>Bezier相关</summary></b>
   
->><details><summary>DBezier</summary>
+<details><summary>DBezier</summary>
   
 #### Bezier运动图
 
@@ -22,7 +22,7 @@
 
 </details>
 
->><details><summary>Bezier三维物体渲染</summary>
+<details><summary>Bezier三维物体渲染</summary>
   
 #### Bezier三维物体渲染效果图
 ##### 这些物体渲染构建的方法都相同，所以只上传了一个“粉色透明花瓶”的 Codes.
@@ -43,6 +43,6 @@
 
                 陶瓷 
            
-  
 </details>
+
 </details>
