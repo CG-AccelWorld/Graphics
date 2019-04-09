@@ -1,0 +1,26 @@
+﻿生成启动时间为 2019/4/9 14:02:31。
+     1>项目“C:\software\Data\repo\Graphics\B样条曲线\test\test.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         C:\software\officesoftware\VS2015\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Yc"stdafx.h" /Fp"Debug\test.pch" /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         C:\software\officesoftware\VS2015\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Yu"stdafx.h" /Fp"Debug\test.pch" /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt MainFrm.cpp test.cpp testDoc.cpp testView.cpp
+         testView.cpp
+         testDoc.cpp
+         test.cpp
+         MainFrm.cpp
+         正在生成代码...
+       ResourceCompile:
+         C:\Program Files (x86)\Windows Kits\8.1\bin\x86\rc.exe /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /l"0x0804" /IDebug\ /nologo /fo"Debug\test.res" test.rc 
+       Link:
+         C:\software\officesoftware\VS2015\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\software\Data\repo\Graphics\B样条曲线\Debug\test.exe" /INCREMENTAL /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:C:\software\officesoftware\VS2015\VC\Include\Manifest\dpiaware.manifest /Debug /PDB:"C:\software\Data\repo\Graphics\B样条曲线\Debug\test.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\software\Data\repo\Graphics\B样条曲线\Debug\test.lib" /MACHINE:X86 Debug\test.res
+         Debug\MainFrm.obj
+         Debug\stdafx.obj
+         Debug\test.obj
+         Debug\testDoc.obj
+         Debug\testView.obj
+         test.vcxproj -> C:\software\Data\repo\Graphics\B样条曲线\Debug\test.exe
+     1>已完成生成项目“C:\software\Data\repo\Graphics\B样条曲线\test\test.vcxproj”(Build 个目标)的操作。
+
+已成功生成。
+
+已用时间 00:00:03.10
