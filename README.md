@@ -49,8 +49,7 @@
   
 #### 鼠标移动控制点，曲线随之变化。
 
-<img src="https://github.com/CG-AccelWorld/Graphics/blob/master/MyImg/B%E6%A0%B7%E6%9D%A1%E6%9B%B2%E7%BA%BF.gif
-" alt="Sample"  width="250" height="250">
+<img src="https://github.com/CG-AccelWorld/Graphics/blob/master/MyImg/B%E6%A0%B7%E6%9D%A1%E6%9B%B2%E7%BA%BF.gif" alt="Sample" width="500" height="300">
 
 </details>
 
