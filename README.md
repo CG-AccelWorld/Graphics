@@ -62,5 +62,12 @@
 </details>
 
 ---
+</details>
+
+<b><details><summary>Cut</summary></b>
+
+####  简单二维裁剪：直线裁剪
+
+<img src="https://github.com/CG-AccelWorld/Graphics/tree/master/Cut" alt="Sample" width="350" height="350">
 
 </details>
