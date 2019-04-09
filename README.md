@@ -53,6 +53,14 @@
 
 </details>
 
+<details><summary>NBzier</summary>
+  
+#### 通过控制点绘制 N 次 Bezier 曲线。
+
+<img src="https://github.com/CG-AccelWorld/Graphics/blob/master/MyImg/NBezier.gif" alt="Sample" width="500" height="300">
+
+</details>
+
 <details><summary>BezierBall</summary>
   
 #### 利用Bezier曲线绘制球。
@@ -71,3 +79,13 @@
 <img src="https://github.com/CG-AccelWorld/Graphics/blob/master/MyImg/Cut.gif" alt="Sample" width="350" height="350">
 
 </details>
+
+<b><details><summary>EetFill</summary></b>
+
+####  多边形填充算法
+
+<img src="https://github.com/CG-AccelWorld/Graphics/blob/master/MyImg/EetFill.gif" alt="Sample" width="350" height="350">
+
+</details>
+
+
