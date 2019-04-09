@@ -1,0 +1,26 @@
+﻿生成启动时间为 2019/4/9 15:36:07。
+     1>项目“C:\software\Data\BaiduNetdiskDownload\Project\AProject\NBzier\NBzier\NBzier.vcxproj”在节点 2 上(Rebuild 个目标)。
+     1>ClCompile:
+         C:\software\officesoftware\VS2015\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Yc"stdafx.h" /Fp"Debug\NBzier.pch" /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         C:\software\officesoftware\VS2015\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Yu"stdafx.h" /Fp"Debug\NBzier.pch" /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt MainFrm.cpp NBzier.cpp NBzierDoc.cpp NBzierView.cpp
+         NBzierView.cpp
+         NBzierDoc.cpp
+         NBzier.cpp
+         MainFrm.cpp
+         正在生成代码...
+       ResourceCompile:
+         C:\Program Files (x86)\Windows Kits\8.1\bin\x86\rc.exe /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /l"0x0804" /IDebug\ /nologo /fo"Debug\NBzier.res" NBzier.rc 
+       Link:
+         C:\software\officesoftware\VS2015\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\software\Data\BaiduNetdiskDownload\Project\AProject\NBzier\Debug\NBzier.exe" /INCREMENTAL /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:C:\software\officesoftware\VS2015\VC\Include\Manifest\dpiaware.manifest /Debug /PDB:"C:\software\Data\BaiduNetdiskDownload\Project\AProject\NBzier\Debug\NBzier.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\software\Data\BaiduNetdiskDownload\Project\AProject\NBzier\Debug\NBzier.lib" /MACHINE:X86 Debug\NBzier.res
+         Debug\MainFrm.obj
+         Debug\NBzier.obj
+         Debug\NBzierDoc.obj
+         Debug\NBzierView.obj
+         Debug\stdafx.obj
+         NBzier.vcxproj -> C:\software\Data\BaiduNetdiskDownload\Project\AProject\NBzier\Debug\NBzier.exe
+     1>已完成生成项目“C:\software\Data\BaiduNetdiskDownload\Project\AProject\NBzier\NBzier\NBzier.vcxproj”(Rebuild 个目标)的操作。
+
+已成功生成。
+
+已用时间 00:00:03.26
