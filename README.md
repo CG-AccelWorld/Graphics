@@ -53,6 +53,14 @@
 
 </details>
 
+<details><summary>BezierBall</summary>
+  
+#### 利用Bezier曲线绘制球。
+
+<img src="https://github.com/CG-AccelWorld/Graphics/blob/master/MyImg/BezierBall.gif" alt="Sample" width="350" height="350">
+
+</details>
+
 ---
 
 </details>
