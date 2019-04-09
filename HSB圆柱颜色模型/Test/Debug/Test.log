@@ -1,0 +1,48 @@
+﻿生成启动时间为 2019/4/9 16:32:58。
+     1>项目“C:\software\Data\BaiduNetdiskDownload\Project\AProject\HSB圆柱颜色模型\Test\Test.vcxproj”在节点 2 上(Rebuild 个目标)。
+     1>ClCompile:
+         C:\software\officesoftware\VS2015\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Yc"stdafx.h" /Fp"Debug\Test.pch" /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         C:\software\officesoftware\VS2015\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Yu"stdafx.h" /Fp"Debug\Test.pch" /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt AET.cpp Bucket.cpp Face.cpp Fill.cpp MainFrm.cpp P2.cpp P3.cpp Pi2.cpp RGB.cpp Test.cpp TestDoc.cpp TestView.cpp Transform.cpp Vector.cpp
+         Vector.cpp
+         Transform.cpp
+         TestView.cpp
+     1>c:\software\data\baidunetdiskdownload\project\aproject\hsb圆柱颜色模型\test\testview.cpp(300): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+         TestDoc.cpp
+         Test.cpp
+         RGB.cpp
+         Pi2.cpp
+         P3.cpp
+         P2.cpp
+         MainFrm.cpp
+         Fill.cpp
+         Face.cpp
+         Bucket.cpp
+         AET.cpp
+         正在生成代码...
+     1>c:\software\data\baidunetdiskdownload\project\aproject\hsb圆柱颜色模型\test\testview.cpp(223): warning C4700: 使用了未初始化的局部变量“fill”
+       ResourceCompile:
+         C:\Program Files (x86)\Windows Kits\8.1\bin\x86\rc.exe /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /l"0x0804" /IDebug\ /nologo /fo"Debug\Test.res" Test.rc 
+       Link:
+         C:\software\officesoftware\VS2015\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\software\Data\BaiduNetdiskDownload\Project\AProject\HSB圆柱颜色模型\Debug\Test.exe" /INCREMENTAL /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:C:\software\officesoftware\VS2015\VC\Include\Manifest\dpiaware.manifest /Debug /PDB:"C:\software\Data\BaiduNetdiskDownload\Project\AProject\HSB圆柱颜色模型\Debug\Test.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\software\Data\BaiduNetdiskDownload\Project\AProject\HSB圆柱颜色模型\Debug\Test.lib" /MACHINE:X86 Debug\Test.res
+         Debug\AET.obj
+         Debug\Bucket.obj
+         Debug\Face.obj
+         Debug\Fill.obj
+         Debug\MainFrm.obj
+         Debug\P2.obj
+         Debug\P3.obj
+         Debug\Pi2.obj
+         Debug\RGB.obj
+         Debug\stdafx.obj
+         Debug\Test.obj
+         Debug\TestDoc.obj
+         Debug\TestView.obj
+         Debug\Transform.obj
+         Debug\Vector.obj
+         Test.vcxproj -> C:\software\Data\BaiduNetdiskDownload\Project\AProject\HSB圆柱颜色模型\Debug\Test.exe
+     1>已完成生成项目“C:\software\Data\BaiduNetdiskDownload\Project\AProject\HSB圆柱颜色模型\Test\Test.vcxproj”(Rebuild 个目标)的操作。
+
+已成功生成。
+
+已用时间 00:00:03.82
