@@ -1,0 +1,39 @@
+﻿生成启动时间为 2019/4/9 15:08:14。
+     1>项目“C:\software\Data\BaiduNetdiskDownload\Project\AProject\EetFill\EetFill\EetFill.vcxproj”在节点 2 上(Rebuild 个目标)。
+     1>ClCompile:
+         C:\software\officesoftware\VS2015\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Yc"stdafx.h" /Fp"Debug\EetFill.pch" /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         C:\software\officesoftware\VS2015\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Yu"stdafx.h" /Fp"Debug\EetFill.pch" /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt AET.cpp Bucket.cpp EetFill.cpp EetFillDoc.cpp EetFillView.cpp Fill.cpp MainFrm.cpp P2.cpp Pi2.cpp RGB.cpp
+         RGB.cpp
+         Pi2.cpp
+         P2.cpp
+         MainFrm.cpp
+         Fill.cpp
+     1>c:\software\data\baidunetdiskdownload\project\aproject\eetfill\eetfill\fill.cpp(192): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+         EetFillView.cpp
+         EetFillDoc.cpp
+         EetFill.cpp
+         Bucket.cpp
+         AET.cpp
+         正在生成代码...
+       ResourceCompile:
+         C:\Program Files (x86)\Windows Kits\8.1\bin\x86\rc.exe /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /l"0x0804" /IDebug\ /nologo /fo"Debug\EetFill.res" EetFill.rc 
+       Link:
+         C:\software\officesoftware\VS2015\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\software\Data\BaiduNetdiskDownload\Project\AProject\EetFill\Debug\EetFill.exe" /INCREMENTAL /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:C:\software\officesoftware\VS2015\VC\Include\Manifest\dpiaware.manifest /Debug /PDB:"C:\software\Data\BaiduNetdiskDownload\Project\AProject\EetFill\Debug\EetFill.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\software\Data\BaiduNetdiskDownload\Project\AProject\EetFill\Debug\EetFill.lib" /MACHINE:X86 Debug\EetFill.res
+         Debug\AET.obj
+         Debug\Bucket.obj
+         Debug\EetFill.obj
+         Debug\EetFillDoc.obj
+         Debug\EetFillView.obj
+         Debug\Fill.obj
+         Debug\MainFrm.obj
+         Debug\P2.obj
+         Debug\Pi2.obj
+         Debug\RGB.obj
+         Debug\stdafx.obj
+         EetFill.vcxproj -> C:\software\Data\BaiduNetdiskDownload\Project\AProject\EetFill\Debug\EetFill.exe
+     1>已完成生成项目“C:\software\Data\BaiduNetdiskDownload\Project\AProject\EetFill\EetFill\EetFill.vcxproj”(Rebuild 个目标)的操作。
+
+已成功生成。
+
+已用时间 00:00:03.32

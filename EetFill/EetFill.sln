@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "EetFill", "EetFill\EetFill.vcxproj", "{400FA3F7-3CD5-4661-9B89-ABA0F7811820}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{400FA3F7-3CD5-4661-9B89-ABA0F7811820}.Debug|Win32.ActiveCfg = Debug|Win32
+		{400FA3F7-3CD5-4661-9B89-ABA0F7811820}.Debug|Win32.Build.0 = Debug|Win32
+		{400FA3F7-3CD5-4661-9B89-ABA0F7811820}.Release|Win32.ActiveCfg = Release|Win32
+		{400FA3F7-3CD5-4661-9B89-ABA0F7811820}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
