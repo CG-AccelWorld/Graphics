@@ -68,6 +68,6 @@
 
 ####  简单二维裁剪：直线裁剪
 
-<img src="https://github.com/CG-AccelWorld/Graphics/tree/master/Cut" alt="Sample" width="350" height="350">
+<img src="https://github.com/CG-AccelWorld/Graphics/blob/master/MyImg/Cut.gif" alt="Sample" width="350" height="350">
 
 </details>
