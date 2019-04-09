@@ -88,4 +88,12 @@
 
 </details>
 
+<b><details><summary>HSB圆柱颜色模型</summary></b>
+
+####  [维基百科：HSB色彩模式](https://baike.baidu.com/item/HSB%E8%89%B2%E5%BD%A9%E6%A8%A1%E5%BC%8F/5158440?fr=aladdin)
+
+<img src="https://github.com/CG-AccelWorld/Graphics/blob/master/MyImg/HSB圆柱颜色模型.gif" alt="Sample" width="350" height="350">
+
+</details>
+
 
