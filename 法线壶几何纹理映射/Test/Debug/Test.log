@@ -1,0 +1,64 @@
+﻿生成启动时间为 2019/4/10 13:43:26。
+     1>项目“C:\software\Data\BaiduNetdiskDownload\Project\AProject\法线壶几何纹理映射\法线壶几何纹理映射\Test\Test.vcxproj”在节点 2 上(Rebuild 个目标)。
+     1>ClCompile:
+         C:\software\officesoftware\VS2015\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Yc"stdafx.h" /Fp"Debug\Test.pch" /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         C:\software\officesoftware\VS2015\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Yu"stdafx.h" /Fp"Debug\Test.pch" /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt AET.cpp BezierObject.cpp Bucket.cpp Face.cpp Light.cpp Lighting.cpp MainFrm.cpp Material.cpp Matrix44.cpp P2.cpp P3.cpp Pi2.cpp Pi3.cpp Projection.cpp RGB.cpp T2.cpp Test.cpp TestDoc.cpp TestView.cpp "Transform .cpp" Vector.cpp ZBuffer.cpp
+         ZBuffer.cpp
+         Vector.cpp
+         Transform .cpp
+         TestView.cpp
+         TestDoc.cpp
+         Test.cpp
+         T2.cpp
+         RGB.cpp
+         Projection.cpp
+         Pi3.cpp
+         Pi2.cpp
+         P3.cpp
+         P2.cpp
+         Matrix44.cpp
+         Material.cpp
+         MainFrm.cpp
+         Lighting.cpp
+         Light.cpp
+         Face.cpp
+         Bucket.cpp
+         正在生成代码...
+         正在编译...
+         BezierObject.cpp
+         AET.cpp
+         正在生成代码...
+       ResourceCompile:
+         C:\Program Files (x86)\Windows Kits\8.1\bin\x86\rc.exe /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /l"0x0804" /IDebug\ /nologo /fo"Debug\Test.res" Test.rc 
+       Link:
+         C:\software\officesoftware\VS2015\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\software\Data\BaiduNetdiskDownload\Project\AProject\法线壶几何纹理映射\法线壶几何纹理映射\Debug\Test.exe" /INCREMENTAL /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:C:\software\officesoftware\VS2015\VC\Include\Manifest\dpiaware.manifest /Debug /PDB:"C:\software\Data\BaiduNetdiskDownload\Project\AProject\法线壶几何纹理映射\法线壶几何纹理映射\Debug\Test.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\software\Data\BaiduNetdiskDownload\Project\AProject\法线壶几何纹理映射\法线壶几何纹理映射\Debug\Test.lib" /MACHINE:X86 Debug\Test.res
+         Debug\AET.obj
+         Debug\BezierObject.obj
+         Debug\Bucket.obj
+         Debug\Face.obj
+         Debug\Light.obj
+         Debug\Lighting.obj
+         Debug\MainFrm.obj
+         Debug\Material.obj
+         Debug\Matrix44.obj
+         Debug\P2.obj
+         Debug\P3.obj
+         Debug\Pi2.obj
+         Debug\Pi3.obj
+         Debug\Projection.obj
+         Debug\RGB.obj
+         Debug\stdafx.obj
+         Debug\T2.obj
+         Debug\Test.obj
+         Debug\TestDoc.obj
+         Debug\TestView.obj
+         "Debug\Transform .obj"
+         Debug\Vector.obj
+         Debug\ZBuffer.obj
+         Test.vcxproj -> C:\software\Data\BaiduNetdiskDownload\Project\AProject\法线壶几何纹理映射\法线壶几何纹理映射\Debug\Test.exe
+     1>已完成生成项目“C:\software\Data\BaiduNetdiskDownload\Project\AProject\法线壶几何纹理映射\法线壶几何纹理映射\Test\Test.vcxproj”(Rebuild 个目标)的操作。
+
+已成功生成。
+
+已用时间 00:00:04.04
