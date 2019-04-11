@@ -1,5 +1,5 @@
-﻿生成启动时间为 2019/4/10 13:37:22。
-     1>项目“C:\software\Data\BaiduNetdiskDownload\Project\AProject\RayTracing\RayTracing\Test\Test.vcxproj”在节点 2 上(Build 个目标)。
+﻿生成启动时间为 2019/4/11 11:13:18。
+     1>项目“C:\software\Data\repo\Graphics\RayTracing\Test\Test.vcxproj”在节点 2 上(Build 个目标)。
      1>ClCompile:
          C:\software\officesoftware\VS2015\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Yc"stdafx.h" /Fp"Debug\Test.pch" /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
          stdafx.cpp
@@ -35,7 +35,7 @@
        ResourceCompile:
          C:\Program Files (x86)\Windows Kits\8.1\bin\x86\rc.exe /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /l"0x0804" /IDebug\ /nologo /fo"Debug\Test.res" Test.rc 
        Link:
-         C:\software\officesoftware\VS2015\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\software\Data\BaiduNetdiskDownload\Project\AProject\RayTracing\RayTracing\Debug\Test.exe" /INCREMENTAL /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:C:\software\officesoftware\VS2015\VC\Include\Manifest\dpiaware.manifest /Debug /PDB:"C:\software\Data\BaiduNetdiskDownload\Project\AProject\RayTracing\RayTracing\Debug\Test.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\software\Data\BaiduNetdiskDownload\Project\AProject\RayTracing\RayTracing\Debug\Test.lib" /MACHINE:X86 Debug\Test.res
+         C:\software\officesoftware\VS2015\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\software\Data\repo\Graphics\RayTracing\Debug\Test.exe" /INCREMENTAL /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:C:\software\officesoftware\VS2015\VC\Include\Manifest\dpiaware.manifest /Debug /PDB:"C:\software\Data\repo\Graphics\RayTracing\Debug\Test.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\software\Data\repo\Graphics\RayTracing\Debug\Test.lib" /MACHINE:X86 Debug\Test.res
          Debug\AET.obj
          Debug\Bucket.obj
          Debug\Face.obj
@@ -62,9 +62,9 @@
          Debug\Transform.obj
          Debug\Vector.obj
          Debug\ZBuffer.obj
-         Test.vcxproj -> C:\software\Data\BaiduNetdiskDownload\Project\AProject\RayTracing\RayTracing\Debug\Test.exe
-     1>已完成生成项目“C:\software\Data\BaiduNetdiskDownload\Project\AProject\RayTracing\RayTracing\Test\Test.vcxproj”(Build 个目标)的操作。
+         Test.vcxproj -> C:\software\Data\repo\Graphics\RayTracing\Debug\Test.exe
+     1>已完成生成项目“C:\software\Data\repo\Graphics\RayTracing\Test\Test.vcxproj”(Build 个目标)的操作。
 
 已成功生成。
 
-已用时间 00:00:04.11
+已用时间 00:00:05.37

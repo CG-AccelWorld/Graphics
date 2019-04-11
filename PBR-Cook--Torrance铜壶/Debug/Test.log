@@ -1,0 +1,72 @@
+﻿生成启动时间为 2019/4/11 16:57:59。
+     1>项目“C:\software\Data\BaiduNetdiskDownload\Project\AProject\Cook--Torrance铜壶\Test.vcxproj”在节点 2 上(Rebuild 个目标)。
+     1>ClCompile:
+         C:\software\officesoftware\VS2015\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _VC80_UPGRADE=0x0600 /D _MBCS /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /Gy- /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Yc"stdafx.h" /Fp".\Debug\Test.pch" /Fo".\Debug\\" /Fd".\Debug\vc140.pdb" /FR".\Debug\\" /Gd /TP /analyze- /errorReport:prompt StdAfx.cpp
+         StdAfx.cpp
+     1>c:\software\officesoftware\vs2015\vc\atlmfc\include\afx.h(38): warning C4996: 'MBCS_Support_Deprecated_In_MFC': MBCS support in MFC is deprecated and may be removed in a future version of MFC.
+         c:\software\officesoftware\vs2015\vc\atlmfc\include\afx.h(33): note: 参见“MBCS_Support_Deprecated_In_MFC”的声明
+         _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+         C:\software\officesoftware\VS2015\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _VC80_UPGRADE=0x0600 /D _MBCS /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /Gy- /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Yu"stdafx.h" /Fp".\Debug\Test.pch" /Fo".\Debug\\" /Fd".\Debug\vc140.pdb" /FR".\Debug\\" /Gd /TP /analyze- /errorReport:prompt AET.cpp BezierObject.cpp Bucket.cpp Face.cpp Light.cpp Lighting.cpp MainFrm.cpp Material.cpp Matrix44.cpp P2.cpp P3.cpp Pi2.cpp Pi3.cpp Point2.cpp Projection.cpp RGB.cpp Test.cpp TestDoc.cpp TestView.cpp Transform3.cpp Vector3.cpp ZBuffer.cpp
+         ZBuffer.cpp
+         Vector3.cpp
+         Transform3.cpp
+         TestView.cpp
+         TestDoc.cpp
+         Test.cpp
+     1>c:\software\data\baidunetdiskdownload\project\aproject\cook--torrance铜壶\test.cpp(60): warning C4996: 'CWinApp::Enable3dControls': CWinApp::Enable3dControls is no longer needed. You should remove this call.
+         c:\software\officesoftware\vs2015\vc\atlmfc\include\afxwin.h(5224): note: 参见“CWinApp::Enable3dControls”的声明
+         RGB.cpp
+         Projection.cpp
+         Point2.cpp
+         Pi3.cpp
+         Pi2.cpp
+         P3.cpp
+         P2.cpp
+         Matrix44.cpp
+         Material.cpp
+         MainFrm.cpp
+         Lighting.cpp
+         Light.cpp
+         Face.cpp
+         Bucket.cpp
+         正在生成代码...
+         正在编译...
+         BezierObject.cpp
+         AET.cpp
+         正在生成代码...
+       ResourceCompile:
+         C:\Program Files (x86)\Windows Kits\8.1\bin\x86\rc.exe /D _DEBUG /D _VC80_UPGRADE=0x0600 /D _AFXDLL /l"0x0804" /nologo /fo".\Debug\Test.res" Test.rc 
+       Link:
+         C:\software\officesoftware\VS2015\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:".\Debug\Test.exe" /INCREMENTAL /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:C:\software\officesoftware\VS2015\VC\Include\Manifest\dpiaware.manifest /Debug /PDB:".\Debug\Test.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:".\Debug\Test.lib" /MACHINE:X86 /SAFESEH .\Debug\Test.res
+         .\Debug\AET.obj
+         .\Debug\BezierObject.obj
+         .\Debug\Bucket.obj
+         .\Debug\Face.obj
+         .\Debug\Light.obj
+         .\Debug\Lighting.obj
+         .\Debug\MainFrm.obj
+         .\Debug\Material.obj
+         .\Debug\Matrix44.obj
+         .\Debug\P2.obj
+         .\Debug\P3.obj
+         .\Debug\Pi2.obj
+         .\Debug\Pi3.obj
+         .\Debug\Point2.obj
+         .\Debug\Projection.obj
+         .\Debug\RGB.obj
+         .\Debug\StdAfx.obj
+         .\Debug\Test.obj
+         .\Debug\TestDoc.obj
+         .\Debug\TestView.obj
+         .\Debug\Transform3.obj
+         .\Debug\Vector3.obj
+         .\Debug\ZBuffer.obj
+     1>AET.obj : warning LNK4075: 忽略“/EDITANDCONTINUE”(由于“/SAFESEH”规范)
+         Test.vcxproj -> C:\software\Data\BaiduNetdiskDownload\Project\AProject\Cook--Torrance铜壶\.\Debug\Test.exe
+       BscMake:
+         C:\software\officesoftware\VS2015\VC\bin\bscmake.exe /nologo /o".\Debug\Test.bsc" .\Debug\AET.sbr .\Debug\BezierObject.sbr .\Debug\Bucket.sbr .\Debug\Face.sbr .\Debug\Light.sbr .\Debug\Lighting.sbr .\Debug\MainFrm.sbr .\Debug\Material.sbr .\Debug\Matrix44.sbr .\Debug\P2.sbr .\Debug\P3.sbr .\Debug\Pi2.sbr .\Debug\Pi3.sbr .\Debug\Point2.sbr .\Debug\Projection.sbr .\Debug\RGB.sbr .\Debug\StdAfx.sbr .\Debug\Test.sbr .\Debug\TestDoc.sbr .\Debug\TestView.sbr .\Debug\Transform3.sbr .\Debug\Vector3.sbr .\Debug\ZBuffer.sbr
+     1>已完成生成项目“C:\software\Data\BaiduNetdiskDownload\Project\AProject\Cook--Torrance铜壶\Test.vcxproj”(Rebuild 个目标)的操作。
+
+已成功生成。
+
+已用时间 00:00:06.71

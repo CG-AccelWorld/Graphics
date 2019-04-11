@@ -1,0 +1,90 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: Test - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\Users\PC\AppData\Local\Temp\RSPA7BB.tmp" with contents
+[
+/nologo /MDd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_WINDOWS" /D "_MBCS" /D "_AFXDLL" /FR"Debug/" /Fp"Debug/Test.pch" /Yu"stdafx.h" /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
+"C:\Users\PC\Desktop\Í­ºø¹âÕÕ\ZBuffer.cpp"
+]
+Creating command line "cl.exe @C:\Users\PC\AppData\Local\Temp\RSPA7BB.tmp" 
+Creating temporary file "C:\Users\PC\AppData\Local\Temp\RSPA7BC.tmp" with contents
+[
+/nologo /subsystem:windows /incremental:yes /pdb:"Debug/Test.pdb" /debug /machine:I386 /out:"Debug/Test.exe" /pdbtype:sept 
+".\Debug\AET.obj"
+".\Debug\BezierObject.obj"
+".\Debug\Bucket.obj"
+".\Debug\Face.obj"
+".\Debug\Light.obj"
+".\Debug\Lighting.obj"
+".\Debug\MainFrm.obj"
+".\Debug\Material.obj"
+".\Debug\Matrix44.obj"
+".\Debug\P2.obj"
+".\Debug\P3.obj"
+".\Debug\Pi2.obj"
+".\Debug\Pi3.obj"
+".\Debug\Point2.obj"
+".\Debug\Projection.obj"
+".\Debug\RGB.obj"
+".\Debug\StdAfx.obj"
+".\Debug\Test.obj"
+".\Debug\TestDoc.obj"
+".\Debug\TestView.obj"
+".\Debug\Transform3.obj"
+".\Debug\Vector3.obj"
+".\Debug\ZBuffer.obj"
+".\Debug\Test.res"
+]
+Creating command line "link.exe @C:\Users\PC\AppData\Local\Temp\RSPA7BC.tmp"
+<h3>Output Window</h3>
+Compiling...
+ZBuffer.cpp
+C:\Users\PC\Desktop\Í­ºø¹âÕÕ\ZBuffer.cpp(38) : warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+C:\Users\PC\Desktop\Í­ºø¹âÕÕ\ZBuffer.cpp(39) : warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+C:\Users\PC\Desktop\Í­ºø¹âÕÕ\ZBuffer.cpp(42) : warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+C:\Users\PC\Desktop\Í­ºø¹âÕÕ\ZBuffer.cpp(43) : warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+C:\Users\PC\Desktop\Í­ºø¹âÕÕ\ZBuffer.cpp(46) : warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+C:\Users\PC\Desktop\Í­ºø¹âÕÕ\ZBuffer.cpp(47) : warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+Linking...
+Creating temporary file "C:\Users\PC\AppData\Local\Temp\RSPA914.tmp" with contents
+[
+/nologo /o"Debug/Test.bsc" 
+".\Debug\StdAfx.sbr"
+".\Debug\AET.sbr"
+".\Debug\BezierObject.sbr"
+".\Debug\Bucket.sbr"
+".\Debug\Face.sbr"
+".\Debug\Light.sbr"
+".\Debug\Lighting.sbr"
+".\Debug\MainFrm.sbr"
+".\Debug\Material.sbr"
+".\Debug\Matrix44.sbr"
+".\Debug\P2.sbr"
+".\Debug\P3.sbr"
+".\Debug\Pi2.sbr"
+".\Debug\Pi3.sbr"
+".\Debug\Point2.sbr"
+".\Debug\Projection.sbr"
+".\Debug\RGB.sbr"
+".\Debug\Test.sbr"
+".\Debug\TestDoc.sbr"
+".\Debug\TestView.sbr"
+".\Debug\Transform3.sbr"
+".\Debug\Vector3.sbr"
+".\Debug\ZBuffer.sbr"]
+Creating command line "bscmake.exe @C:\Users\PC\AppData\Local\Temp\RSPA914.tmp"
+Creating browse info file...
+<h3>Output Window</h3>
+
+
+
+<h3>Results</h3>
+Test.exe - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>
