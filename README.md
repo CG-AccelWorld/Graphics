@@ -15,6 +15,7 @@
 
 <b><details><summary>随手做的小东西--雪花飘呀飘</summary><b>
   #### 某天突然兴致来了，就做了这个小玩意儿，姑且算是个小游戏吧.23333
+  #### 还给它配了个音乐--认真的雪。 还挺符合意境的。23333
 
 ![image](https://github.com/CG-AccelWorld/Graphics/blob/master/MyImg/%E9%9B%AA%E8%8A%B1%E9%A3%98%E5%91%80%E9%A3%98.gif)
 
@@ -130,18 +131,11 @@
 </details>
 
 
-<b><details><summary>PBR-Cook--Torrance铜壶</summary></b>
+<b><details><summary>简单光照模型--球面光照和材质交互作用算法</summary><b>
+  #### 绿宝石材质下：球上的丝线是录制工具原因，实际并没有....
+  #### 此光照模型为 Gouraud光照模型
 
-####  基于物理的光照模型
-##### 左侧是 Cook--Torrance 算法. 右侧是 Phong明暗处理模型
-
-<img src="https://github.com/CG-AccelWorld/Graphics/blob/master/MyImg/PBR-Cook--Torrance%E9%93%9C%E5%A3%B6.gif" alt="Sample" width="570" height="500">
-
-</details>
-
-<b><details><summary>光线追踪算法初探--RayTracing</summary></b>
-
-![image](https://github.com/CG-AccelWorld/Graphics/blob/master/MyImg/RayTracing%EF%BC%88Png%EF%BC%89.png)
+![image](https://github.com/CG-AccelWorld/Graphics/blob/master/MyImg/球面光照和材质交互作用算法.gif)
 
 </details>
 
@@ -166,13 +160,26 @@
 </details>
 
 
-<b><details><summary>简单光照模型--球面光照和材质交互作用算法</summary><b>
-  #### 绿宝石材质下：球上的丝线是录制工具原因，实际并没有....
-  #### 此光照模型为 Gouraud光照模型
+<b><details><summary>PBR-Cook--Torrance铜壶</summary></b>
 
-![image](https://github.com/CG-AccelWorld/Graphics/blob/master/MyImg/球面光照和材质交互作用算法.gif)
+####  基于物理的光照模型
+##### 左侧是 Cook--Torrance 算法. 右侧是 Phong明暗处理模型
+
+<img src="https://github.com/CG-AccelWorld/Graphics/blob/master/MyImg/PBR-Cook--Torrance%E9%93%9C%E5%A3%B6.gif" alt="Sample" width="570" height="500">
 
 </details>
+
+<b><details><summary>光线追踪算法初探--RayTracing</summary></b>
+
+![image](https://github.com/CG-AccelWorld/Graphics/blob/master/MyImg/RayTracing%EF%BC%88Png%EF%BC%89.png)
+
+</details>
+
+
+
+
+
+
 
 
 
