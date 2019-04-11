@@ -12,6 +12,15 @@
 
 </details>
 
+
+<b><details><summary>随手做的小东西--雪花飘呀飘</summary><b>
+  #### 某天突然兴致来了，就做了这个小玩意儿，姑且算是个小游戏吧.23333
+
+![image](https://github.com/CG-AccelWorld/Graphics/blob/master/MyImg/%E9%9B%AA%E8%8A%B1%E9%A3%98%E5%91%80%E9%A3%98.gif)
+
+</details>
+
+
 <b><details><summary>Bezier相关</summary></b>
   
 ---
@@ -76,9 +85,16 @@
 
 ####  简单二维裁剪：直线裁剪
 
-<img src="https://github.com/CG-AccelWorld/Graphics/blob/master/MyImg/Cut.gif" alt="Sample" width="350" height="350">
+<img src="https://github.com/CG-AccelWorld/Graphics/blob/master/MyImg/Cut.gif" alt="Sample" width="400" height="400">
 
 </details>
+
+<b><details><summary>三维图形几何变换--TCube</summary></b>
+
+<img src="https://github.com/CG-AccelWorld/Graphics/blob/master/MyImg/%E4%B8%89%E7%BB%B4%E5%9B%BE%E5%BD%A2%E5%87%A0%E4%BD%95%E5%8F%98%E5%8C%96.gif" alt="Sample" width="400" height="400">
+
+</details>
+
 
 <b><details><summary>多边形填充算法</summary></b>
   
@@ -105,5 +121,61 @@
 <img src="https://github.com/CG-AccelWorld/Graphics/blob/master/MyImg/HSB圆柱颜色模型.gif" alt="Sample" width="350" height="350">
 
 </details>
+
+
+<b><details><summary>透明算法--Transparency</summary></b>
+
+<img src="https://github.com/CG-AccelWorld/Graphics/blob/master/MyImg/%E7%AE%80%E5%8D%95%E9%80%8F%E6%98%8E%E6%A8%A1%E5%9E%8B.png" alt="Sample" width="650" height="500">
+
+</details>
+
+
+<b><details><summary>PBR-Cook--Torrance铜壶</summary></b>
+
+####  基于物理的光照模型
+##### 左侧是 Cook--Torrance 算法. 右侧是 Phong明暗处理模型
+
+<img src="https://github.com/CG-AccelWorld/Graphics/blob/master/MyImg/PBR-Cook--Torrance%E9%93%9C%E5%A3%B6.gif" alt="Sample" width="570" height="500">
+
+</details>
+
+<b><details><summary>光线追踪算法初探--RayTracing</summary></b>
+
+![image](https://github.com/CG-AccelWorld/Graphics/blob/master/MyImg/RayTracing%EF%BC%88Png%EF%BC%89.png)
+
+</details>
+
+
+<b><details><summary>纹理映射算法</summary></b>
+  
+  ---
+  <details><summary>凹凸纹理--法线壶几何纹理映射</summary>
+
+<img src="https://github.com/CG-AccelWorld/Graphics/blob/master/MyImg/法线壶几何纹理映射.gif" alt="Sample" width="650" height="500">
+
+</details>
+
+
+<details><summary>纹理反走样--球面几何纹理映射三种反走样算法</summary>
+
+![image](https://github.com/CG-AccelWorld/Graphics/blob/master/MyImg/球面几何纹理映射三种反走样算法.gif)
+
+</details>
+
+---
+</details>
+
+
+<b><details><summary>简单光照模型--球面光照和材质交互作用算法</summary><b>
+  #### 绿宝石材质下：球上的丝线是录制工具原因，实际并没有....
+  #### 此光照模型为 Gouraud光照模型
+
+![image](https://github.com/CG-AccelWorld/Graphics/blob/master/MyImg/球面光照和材质交互作用算法.gif)
+
+</details>
+
+
+
+
 
 
