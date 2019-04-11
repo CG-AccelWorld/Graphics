@@ -80,12 +80,22 @@
 
 </details>
 
-<b><details><summary>EetFill</summary></b>
-
-####  多边形填充算法
+<b><details><summary>多边形填充算法</summary></b>
+  
+ ---
+<details><summary>有效边表填充算法---EetFill</summary>
 
 <img src="https://github.com/CG-AccelWorld/Graphics/blob/master/MyImg/EetFill.gif" alt="Sample" width="350" height="350">
 
+</details>
+
+<details><summary>三角形填充算法（边标志填充算法）---Cube--三角形填充算法</summary>
+
+<img src="https://github.com/CG-AccelWorld/Graphics/blob/master/MyImg/Cube--三角形填充算法.gif" alt="Sample" width="350" height="350">
+
+</details>
+
+---
 </details>
 
 <b><details><summary>HSB圆柱颜色模型</summary></b>
