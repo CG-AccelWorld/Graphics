@@ -4,7 +4,7 @@
 
 </details>
 
-<b><details><summary>ColorLine</summary></b>
+<b><details><summary>⚡️ColorLine</summary></b>
 
 ####  这个是我进研究所时老师出的考题，还挺有意思的.
 
@@ -13,7 +13,7 @@
 </details>
 
 
-<b><details><summary>随手做的小东西--雪花飘呀飘</summary><b>
+<b><details><summary>⚡️随手做的小东西--雪花飘呀飘</summary><b>
   #### 某天突然兴致来了，就做了这个小玩意儿，姑且算是个小游戏吧.23333
   #### 还给它配了个音乐--认真的雪。 还挺符合意境的。23333
 
@@ -22,7 +22,7 @@
 </details>
 
 
-<b><details><summary>Bezier相关</summary></b>
+<b><details><summary>⚡️Bezier相关</summary></b>
   
 ---
 <details><summary>DBezier</summary>
@@ -82,7 +82,7 @@
 ---
 </details>
 
-<b><details><summary>Cut</summary></b>
+<b><details><summary>⚡️Cut</summary></b>
 
 ####  简单二维裁剪：直线裁剪
 
@@ -97,7 +97,7 @@
 </details>
 
 
-<b><details><summary>多边形填充算法</summary></b>
+<b><details><summary>⚡️多边形填充算法</summary></b>
   
  ---
 <details><summary>有效边表填充算法---EetFill</summary>
@@ -115,7 +115,7 @@
 ---
 </details>
 
-<b><details><summary>HSB圆柱颜色模型</summary></b>
+<b><details><summary>⚡️HSB圆柱颜色模型</summary></b>
 
 ####  [维基百科：HSB色彩模式](https://baike.baidu.com/item/HSB%E8%89%B2%E5%BD%A9%E6%A8%A1%E5%BC%8F/5158440?fr=aladdin)
 
@@ -124,14 +124,14 @@
 </details>
 
 
-<b><details><summary>透明算法--Transparency</summary></b>
+<b><details><summary>⚡️透明算法--Transparency</summary></b>
 
 <img src="https://github.com/CG-AccelWorld/Graphics/blob/master/MyImg/%E7%AE%80%E5%8D%95%E9%80%8F%E6%98%8E%E6%A8%A1%E5%9E%8B.png" alt="Sample" width="650" height="500">
 
 </details>
 
 
-<b><details><summary>简单光照模型--球面光照和材质交互作用算法</summary><b>
+<b><details><summary>⚡️简单光照模型--球面光照和材质交互作用算法</summary><b>
   #### 绿宝石材质下：球上的丝线是录制工具原因，实际并没有....
   #### 此光照模型为 Gouraud光照模型
 
@@ -140,7 +140,7 @@
 </details>
 
 
-<b><details><summary>纹理映射算法</summary></b>
+<b><details><summary>⚡️纹理映射算法</summary></b>
   
   ---
   <details><summary>凹凸纹理--法线壶几何纹理映射</summary>
@@ -160,7 +160,7 @@
 </details>
 
 
-<b><details><summary>PBR-Cook--Torrance铜壶</summary></b>
+<b><details><summary>⚡️PBR-Cook--Torrance铜壶</summary></b>
 
 ####  基于物理的光照模型
 ##### 左侧是 Cook--Torrance 算法. 右侧是 Phong明暗处理模型
@@ -169,7 +169,7 @@
 
 </details>
 
-<b><details><summary>光线追踪算法初探--RayTracing</summary></b>
+<b><details><summary>⚡️光线追踪算法初探--RayTracing</summary></b>
 
 ![image](https://github.com/CG-AccelWorld/Graphics/blob/master/MyImg/RayTracing%EF%BC%88Png%EF%BC%89.png)
 
