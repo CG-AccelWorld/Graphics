@@ -131,6 +131,13 @@
 </details>
 
 
+<b><details><summary>⚡️简单阴影模型</summary></b>
+
+<img src="https://github.com/CG-AccelWorld/Graphics/blob/master/MyImg/%E7%AE%80%E5%8D%95%E9%98%B4%E5%BD%B1.gif" alt="Sample" width="650" height="500">
+
+</details>
+
+
 <b><details><summary>⚡️简单光照模型--球面光照和材质交互作用算法</summary><b>
   #### 绿宝石材质下：球上的丝线是录制工具原因，实际并没有....
   #### 此光照模型为 Gouraud光照模型
