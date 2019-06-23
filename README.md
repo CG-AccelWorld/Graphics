@@ -13,9 +13,7 @@
 </details>
 
 
-<b><details><summary>⚡️随手做的小东西--雪花飘呀飘</summary><b>
-  #### 某天突然兴致来了，就做了这个小玩意儿，姑且算是个小游戏吧.23333
-  #### 还给它配了个音乐--认真的雪。 还挺符合意境的。23333
+<b><details><summary>⚡️随手做的小东西</summary><b>
 
 ![image](https://github.com/CG-AccelWorld/Graphics/blob/master/MyImg/%E9%9B%AA%E8%8A%B1%E9%A3%98%E5%91%80%E9%A3%98.gif)
 
